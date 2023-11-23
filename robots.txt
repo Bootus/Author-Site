@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Bootus.github.io/al-folio/sitemap.xml
+Sitemap: https://Bootus.github.io/author-site/sitemap.xml
