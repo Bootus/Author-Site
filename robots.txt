@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Bootus.github.io/Author-Site/sitemap.xml
+Sitemap: https://justinfloersch.com//sitemap.xml
